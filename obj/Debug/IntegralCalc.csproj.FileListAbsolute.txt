@@ -1,0 +1,13 @@
+C:\Users\Я\source\repos\IntegralCalc\bin\Debug\IntegralCalc.exe.config
+C:\Users\Я\source\repos\IntegralCalc\bin\Debug\IntegralCalc.exe
+C:\Users\Я\source\repos\IntegralCalc\bin\Debug\IntegralCalc.pdb
+C:\Users\Я\source\repos\IntegralCalc\obj\Debug\IntegralCalc.csprojAssemblyReference.cache
+C:\Users\Я\source\repos\IntegralCalc\obj\Debug\IntegralCalc.Form1.resources
+C:\Users\Я\source\repos\IntegralCalc\obj\Debug\IntegralCalc.Properties.Resources.resources
+C:\Users\Я\source\repos\IntegralCalc\obj\Debug\IntegralCalc.csproj.GenerateResource.cache
+C:\Users\Я\source\repos\IntegralCalc\obj\Debug\IntegralCalc.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\IntegralCalc\obj\Debug\IntegralCalc.exe
+C:\Users\Я\source\repos\IntegralCalc\obj\Debug\IntegralCalc.pdb
+C:\Users\Я\source\repos\IntegralCalc\bin\Debug\ru\IntegralCalc.resources.dll
+C:\Users\Я\source\repos\IntegralCalc\obj\Debug\IntegralCalc.Form1.ru.resources
+C:\Users\Я\source\repos\IntegralCalc\obj\Debug\ru\IntegralCalc.resources.dll
